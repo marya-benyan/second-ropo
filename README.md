@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # second-ropo   Create different HTML pages for each image.
 <form action="action_page.php"></form>
 <label for="fname">first name:</label>
@@ -12,3 +13,7 @@
 <input type="radio" id="male" name="submit-gender" value="male">
 <label for="female">female:</label>
 <input type="radio" id="female" name="submit-gender" value="female">
+=======
+# second-ropo
+- Create different HTML pages for each image.
+>>>>>>> 16d237b0e8155bdb847973c14982b536b1bca720
